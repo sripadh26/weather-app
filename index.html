@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🌤️ Weather App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="weather-app">
+    <h1>🌈 Live Weather</h1>
+
+    <form id="weather-form">
+      <input type="text" id="city-input" placeholder="Enter city name" required />
+      <button type="submit">Search</button>
+    </form>
+
+    <div id="error-message" class="error hidden"></div>
+
+    <div id="weather-result" class="hidden">
+      <div class="weather-icon" id="emoji">⛅</div>
+      <div class="info-label" id="city-name"></div>
+      <div class="info-text" id="temperature"></div>
+      <div class="info-text" id="description"></div>
+      <div class="info-text" id="humidity"></div>
+      <div class="info-text" id="wind"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
