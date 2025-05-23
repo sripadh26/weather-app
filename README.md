@@ -7,9 +7,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, with data powered by the **Op
 ## 🚀 Live Demo
 
 👉 [https://sripadh26.github.io/weather-app/](https://sripadh26.github.io/weather-app/)
-
 ## 🛠 Features
-
 - 🔍 Search by city name
 - 🌡️ Displays temperature, weather condition, humidity, and wind speed
 - 🎨 Stylish UI with gradient background and emoji indicators
