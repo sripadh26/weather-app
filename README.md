@@ -18,9 +18,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, with data powered by the **Op
 - CSS3
 - JavaScript (Vanilla)
 - OpenWeatherMap API
-
 ## 📦 Setup Instructions
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/sripadh26/weather-app.git
