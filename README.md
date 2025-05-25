@@ -3,7 +3,6 @@
 A clean and responsive Weather App that lets users search for any city in the world and view its current weather conditions.
 
 Built using **HTML**, **CSS**, and **JavaScript**, with data powered by the **OpenWeatherMap API**.
-
 ## 🚀 Live Demo
 
 👉 [https://sripadh26.github.io/weather-app/](https://sripadh26.github.io/weather-app/)
